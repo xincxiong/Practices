@@ -8,3 +8,7 @@
 
 3. Fine-tuning pre-trained models in Keras
 
+
+### News
+
+1. 2018/04/26  add pytorch tutorial into folder.
